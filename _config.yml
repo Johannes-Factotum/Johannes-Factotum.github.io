@@ -11,10 +11,10 @@ description: This website is a online representation for the human called Johann
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://johannesboldt.com"
+# url: "https://johannesboldt.com"
 
 # baseurl should be an empty string
-baseurl: ""
+# baseurl: ""
 
 # --- Navigation bar options --- #
 
@@ -250,5 +250,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
